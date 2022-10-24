@@ -1,0 +1,2 @@
+run = 'npm --prefix ./mizuko run dev'
+entrypoint = './mizuko/pages/index.jsx'
